@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Irfan-majumder
   
-### "Building ideas into reality."
+"Building ideas into reality."
 
 I'm a Software Developer & Full Stack Developer** with a passion for creating scalable, efficient applications that solve real-world problems.
 With a deep interest in both frontend and backend development, I aim to build robust systems that can adapt and grow over time. 
