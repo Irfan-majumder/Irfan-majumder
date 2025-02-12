@@ -22,7 +22,7 @@ My goal is to keep learning, building, and sharing my knowledge with the communi
 - When I’m not coding, I enjoy hiking, exploring new tech trends, and experimenting with new programming languages.
 
 📫 How to Connect:
-- [LinkedIn](https://www.linkedin.com/in/irfan-majumder-23ba16296)
+- All Socials : linktr.ree/irfanmajumder
 
 <!---
 Irfan-majumder/Irfan-majumder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
