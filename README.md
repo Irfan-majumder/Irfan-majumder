@@ -30,3 +30,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irfan-majumder&show_icons=true&locale=en" alt="irfan-majumder" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irfan-majumder&" alt="irfan-majumder" /></p>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/irfan-majumder/irfan-majumder/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/irfan-majumder/irfan-majumder/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/irfan-majumder/irfan-majumder/output/github-snake.svg" />
+</picture>
