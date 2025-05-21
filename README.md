@@ -2,9 +2,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irfan-majumder" alt="irfan-majumder" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/https://x.com/irfanmajum89360" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/irfanmajum89360?logo=twitter&style=for-the-badge" alt="https://x.com/irfanmajum89360" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://irfanmajumder-resume.framer.website/](https://irfanmajumder-resume.framer.website/)
 
